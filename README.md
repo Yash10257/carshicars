@@ -19,7 +19,6 @@ This project was created as a sample project to demonstrate how to build a web a
 - Browse a catalog of cars.
 - View detailed information about each car.
 - Navigate through pages of the catalog with pagination.
-- Search for specific cars by name.
 
 ## Technologies Used
 
