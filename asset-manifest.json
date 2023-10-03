@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/carshicars/static/css/main.06910321.css",
+    "main.js": "/carshicars/static/js/main.a12b7f4a.js",
+    "static/js/787.f00f78a5.chunk.js": "/carshicars/static/js/787.f00f78a5.chunk.js",
+    "index.html": "/carshicars/index.html",
+    "main.06910321.css.map": "/carshicars/static/css/main.06910321.css.map",
+    "main.a12b7f4a.js.map": "/carshicars/static/js/main.a12b7f4a.js.map",
+    "787.f00f78a5.chunk.js.map": "/carshicars/static/js/787.f00f78a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06910321.css",
+    "static/js/main.a12b7f4a.js"
+  ]
+}
